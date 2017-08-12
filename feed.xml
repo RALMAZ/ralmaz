@@ -3,7 +3,7 @@
     <title>ralmaz</title>
     <link href="https://ralmaz.github.io/feed.xml" rel="self" />
     <link href="https://ralmaz.github.io" />
-    <updated>2017-08-12T19:38:24+03:00</updated>
+    <updated>2017-08-12T19:40:51+03:00</updated>
     <author>
         <name>RALMAZ</name>
     </author>
@@ -17,11 +17,11 @@
         <link href="https://ralmaz.github.io/vuejs-i-php.html"/>
         <id>https://ralmaz.github.io/vuejs-i-php.html</id>
 
-        <updated>2017-08-12T19:07:23+03:00</updated>
+        <updated>2017-08-12T19:40:43+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ralmaz.github.io/media/posts/2/vue-js-what-is-that.jpg" alt="" />
+                    <img src="https://ralmaz.github.io/media/posts/2/1-kgevwnpzwvfel5msi4cyg.jpeg" alt="" />
                 <p>В этом уроке мы будем использовать VueJS и PHP для создания действительно крутого инструмента вычисления плотности ключевых слов.</p>
 <p>На стороне Vue мы будем использовать компоненты, шаблоны, базовые функции Vue&nbsp;и многое другое. Мы будем использовать PHP для генерации формы, а также для обработки данных&nbsp;формы в дополнение к функции <a href="http://php.net/manual/ru/function.substr-count.php" target="_blank" rel="nofollow noopener noreferrer">substr_count ()</a>. <br>Давайте посмотрим, как мы можем это сделать, это должно быть&nbsp;интересно.</p>
 <h2>Объявление компонента Vue</h2>
