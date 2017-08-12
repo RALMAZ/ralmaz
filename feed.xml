@@ -3,26 +3,28 @@
     <title>ralmaz</title>
     <link href="https://ralmaz.github.io/feed.xml" rel="self" />
     <link href="https://ralmaz.github.io" />
-    <updated>2017-08-12T20:43:24+03:00</updated>
+    <updated>2017-08-12T23:10:07+03:00</updated>
     <author>
         <name>RALMAZ</name>
     </author>
     <id>https://ralmaz.github.io</id>
 
     <entry>
-        <title>Будущий пост</title>
+        <title>Vue.js тестирование</title>
         <author>
             <name>RALMAZ</name>
         </author>
         <link href="https://ralmaz.github.io/budushchiy-post.html"/>
         <id>https://ralmaz.github.io/budushchiy-post.html</id>
 
-        <updated>2017-08-12T19:56:41+03:00</updated>
+        <updated>2017-08-12T23:09:58+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ralmaz.github.io/media/posts/3/1490887499118090486.jpg" alt="" />
-                Будущий пост
+                    <img src="https://ralmaz.github.io/media/posts/3/2017-07-23_132212.png" alt="" />
+                <div id="app-5">
+<p>{{ message }}</p>
+<button>Обратить порядок букв в сообщении</button></div>
             ]]>
         </content>
     </entry>
@@ -35,7 +37,7 @@
         <id>https://ralmaz.github.io/vuejs-i-php.html</id>
             <category term="Vue.js"/>
 
-        <updated>2017-08-12T19:47:11+03:00</updated>
+        <updated>2017-08-12T22:42:45+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
