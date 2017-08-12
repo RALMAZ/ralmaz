@@ -3,7 +3,7 @@
     <title>ralmaz</title>
     <link href="https://ralmaz.github.io/feed.xml" rel="self" />
     <link href="https://ralmaz.github.io" />
-    <updated>2017-08-12T23:12:58+03:00</updated>
+    <updated>2017-08-12T23:14:34+03:00</updated>
     <author>
         <name>RALMAZ</name>
     </author>
@@ -17,12 +17,12 @@
         <link href="https://ralmaz.github.io/budushchiy-post.html"/>
         <id>https://ralmaz.github.io/budushchiy-post.html</id>
 
-        <updated>2017-08-12T23:09:58+03:00</updated>
+        <updated>2017-08-12T23:14:25+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://ralmaz.github.io/media/posts/3/2017-07-23_132212.png" alt="" />
-                <div id="app-5">
+                <div id="app">
 <p>{{ message }}</p>
 <button>Обратить порядок букв в сообщении</button></div>
             ]]>

@@ -14,15 +14,15 @@
             "id": "https://ralmaz.github.io/budushchiy-post.html",
             "url": "https://ralmaz.github.io/budushchiy-post.html",
             "title": "Vue.js тестирование",
-            "content_html": "<div id=\"app-5\">\n<p>{{ message }}</p>\n<button>Обратить порядок букв в сообщении</button></div>",
+            "content_html": "<div id=\"app\">\n<p>{{ message }}</p>\n<button>Обратить порядок букв в сообщении</button></div>",
             "image": "https://ralmaz.github.io/media/posts/3/2017-07-23_132212.png",
             "author": {
                 "name": "RALMAZ"
             },
             "tags": [
             ],
-            "date_published": "2017-08-12T23:12:58+03:00",
-            "date_modified": "2017-08-12T23:09:58+03:00"
+            "date_published": "2017-08-12T23:14:35+03:00",
+            "date_modified": "2017-08-12T23:14:25+03:00"
         },
         {
             "id": "https://ralmaz.github.io/vuejs-i-php.html",
@@ -36,7 +36,7 @@
             "tags": [
                    "Vue.js"
             ],
-            "date_published": "2017-08-12T23:12:58+03:00",
+            "date_published": "2017-08-12T23:14:35+03:00",
             "date_modified": "2017-08-12T22:42:45+03:00"
         }
     ]
