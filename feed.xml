@@ -3,26 +3,32 @@
     <title>personal-notes</title>
     <link href="https://ralmaz.github.io/feed.xml" rel="self" />
     <link href="https://ralmaz.github.io" />
-    <updated>2017-08-12T16:44:17+03:00</updated>
+    <updated>2017-08-12T19:04:44+03:00</updated>
     <author>
         <name>RALMAZ</name>
     </author>
     <id>https://ralmaz.github.io</id>
 
     <entry>
-        <title>Test post</title>
+        <title>Разработка с Vue.js и PHP (перевод)</title>
         <author>
             <name>RALMAZ</name>
         </author>
-        <link href="https://ralmaz.github.io/test-post.html"/>
-        <id>https://ralmaz.github.io/test-post.html</id>
+        <link href="https://ralmaz.github.io/vuejs-i-php.html"/>
+        <id>https://ralmaz.github.io/vuejs-i-php.html</id>
 
-        <updated>2017-08-12T16:27:59+03:00</updated>
+        <updated>2017-08-12T19:04:27+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ralmaz.github.io/media/posts/1/apwnntpe8uy.jpg" alt="" />
-                Hello time world<br><img src="https://ralmaz.github.io/media/posts/1/6bd45b541332135951523e43076.jpg" alt="" width="1200" height="800">
+                    <img src="https://ralmaz.github.io/media/posts/2/vue-js-what-is-that.jpg" alt="" />
+                <address>Перевод&nbsp;<a href="http://vegibit.com/developing-with-vuejs-and-php/" target="_blank" rel="nofollow noopener noreferrer">vegibit.com/developing-with-vuejs-and-php</a></address>
+<p>В этом уроке мы будем использовать VueJS и PHP для создания действительно крутого инструмента вычисления плотности ключевых слов.</p>
+<p>На стороне Vue мы будем использовать компоненты, шаблоны, базовые функции Vue&nbsp;и многое другое. Мы будем использовать PHP для генерации формы, а также для обработки данных&nbsp;формы в дополнение к функции <a href="http://php.net/manual/ru/function.substr-count.php" target="_blank" rel="nofollow noopener noreferrer">substr_count ()</a>. <br>Давайте посмотрим, как мы можем это сделать, это должно быть&nbsp;интересно.</p>
+<h2>Объявление компонента Vue</h2>
+<p>Первое что мы сделаем - объявим компонент для нашего приложения.<br>В этой ситуации, мы создаем&nbsp;<code>keywordcounter</code>&nbsp;компонент первым аргументом, передавая методу&nbsp;<code>.component()</code></p>
+<p>Мы передаем объект в качестве второго параметра этого метода. Он обладает свойствами&nbsp; <code>template</code>, <code>props</code>, <code>data</code>, и&nbsp;<code>methods</code>.&nbsp;</p>
+<p>&nbsp;</p>
             ]]>
         </content>
     </entry>

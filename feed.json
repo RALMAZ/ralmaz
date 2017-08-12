@@ -11,18 +11,18 @@
     },
     "items": [
         {
-            "id": "https://ralmaz.github.io/test-post.html",
-            "url": "https://ralmaz.github.io/test-post.html",
-            "title": "Test post",
-            "content_html": "Hello time world<br><img src=\"https://ralmaz.github.io/media/posts/1/6bd45b541332135951523e43076.jpg\" alt=\"\" width=\"1200\" height=\"800\">",
-            "image": "https://ralmaz.github.io/media/posts/1/apwnntpe8uy.jpg",
+            "id": "https://ralmaz.github.io/vuejs-i-php.html",
+            "url": "https://ralmaz.github.io/vuejs-i-php.html",
+            "title": "Разработка с Vue.js и PHP (перевод)",
+            "content_html": "<address>Перевод&nbsp;<a href=\"http://vegibit.com/developing-with-vuejs-and-php/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">vegibit.com/developing-with-vuejs-and-php</a></address>\n<p>В этом уроке мы будем использовать VueJS и PHP для создания действительно крутого инструмента вычисления плотности ключевых слов.</p>\n<p>На стороне Vue мы будем использовать компоненты, шаблоны, базовые функции Vue&nbsp;и многое другое. Мы будем использовать PHP для генерации формы, а также для обработки данных&nbsp;формы в дополнение к функции <a href=\"http://php.net/manual/ru/function.substr-count.php\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">substr_count ()</a>. <br>Давайте посмотрим, как мы можем это сделать, это должно быть&nbsp;интересно.</p>\n<h2>Объявление компонента Vue</h2>\n<p>Первое что мы сделаем - объявим компонент для нашего приложения.<br>В этой ситуации, мы создаем&nbsp;<code>keywordcounter</code>&nbsp;компонент первым аргументом, передавая методу&nbsp;<code>.component()</code></p>\n<p>Мы передаем объект в качестве второго параметра этого метода. Он обладает свойствами&nbsp; <code>template</code>, <code>props</code>, <code>data</code>, и&nbsp;<code>methods</code>.&nbsp;</p>\n<p>&nbsp;</p>",
+            "image": "https://ralmaz.github.io/media/posts/2/vue-js-what-is-that.jpg",
             "author": {
                 "name": "RALMAZ"
             },
             "tags": [
             ],
-            "date_published": "2017-08-12T16:44:17+03:00",
-            "date_modified": "2017-08-12T16:27:59+03:00"
+            "date_published": "2017-08-12T19:04:44+03:00",
+            "date_modified": "2017-08-12T19:04:27+03:00"
         }
     ]
 }
