@@ -3,12 +3,33 @@
     <title>ralmaz</title>
     <link href="https://ralmaz.github.io/feed.xml" rel="self" />
     <link href="https://ralmaz.github.io" />
-    <updated>2017-08-13T01:18:28+03:00</updated>
+    <updated>2017-08-13T01:52:35+03:00</updated>
     <author>
         <name>RALMAZ</name>
     </author>
     <id>https://ralmaz.github.io</id>
 
+    <entry>
+        <title>Набор интересных меню</title>
+        <author>
+            <name>RALMAZ</name>
+        </author>
+        <link href="https://ralmaz.github.io/nabor-interesnyh-menyu.html"/>
+        <id>https://ralmaz.github.io/nabor-interesnyh-menyu.html</id>
+            <category term="UI/UX"/>
+
+        <updated>2017-08-13T01:48:37+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://ralmaz.github.io/media/posts/4/fon-rabochego-stola.bmp" alt="" />
+                <p><iframe width="300" height="265" style="width: 100%;" scrolling="no" title="Rings Navigation Concept" src="//codepen.io/bennettfeely/embed/qRJOZJ/?height=265&amp;theme-id=light&amp;default-tab=result&amp;embed-version=2" frameborder="no" allowtransparency="true" allowfullscreen="allowfullscreen">See the Pen <a href="https://codepen.io/bennettfeely/pen/qRJOZJ/"></a></iframe></p>
+<p><a href="https://tympanus.net/codrops/2013/07/30/google-nexus-website-menu/" target="_blank" rel="noopener noreferrer"><img src="https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2013/07/GoogleNexusMenu.png" alt="" width="580" height="315"></a></p>
+<p>&nbsp;</p>
+<p><a href="http://avirtum.com/demo/slidemenu/" target="_blank" rel="noopener noreferrer"><img src="http://avirtum.com/demo/slidemenu/assets/images/preview.png"></a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Набор идей с Vue.js для E-Commerce</title>
         <author>
@@ -18,46 +39,21 @@
         <id>https://ralmaz.github.io/vue-test.html</id>
             <category term="Vue.js"/>
 
-        <updated>2017-08-13T00:44:50+03:00</updated>
+        <updated>2017-08-13T01:36:40+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://ralmaz.github.io/media/posts/3/2017-07-23_132212.png" alt="" />
                 <p>Много я о таком думал, продажи с фото, <br>на очереди динамичные продажи с видео (пока непонятно как массово , например в&nbsp;YouTube реализовать отдаленно подобное).</p>
 <p><iframe width="300" height="574" style="width: 100%;" scrolling="no" title="Image Hotspot concept with Vue" src="//codepen.io/ispal/embed/VWPJRd/?height=574&amp;theme-id=light&amp;default-tab=result&amp;embed-version=2" frameborder="no" allowtransparency="true" allowfullscreen="allowfullscreen"></iframe></p>
-<p>Немного доработок и идея вполне годная</p>
+<p>&nbsp;Немного доработок и идея вполне годная</p>
 <p><iframe width="300" height="686" style="width: 100%;" scrolling="no" title="Vue.js Pizza Maker" src="//codepen.io/mikemang/embed/egPZmp/?height=686&amp;theme-id=light&amp;default-tab=result&amp;embed-version=2" frameborder="no" allowtransparency="true" allowfullscreen="allowfullscreen"></iframe></p>
-<p>Заготовки под чатик<br><br></p>
+<p>&nbsp;Заготовки под чатик<br><br></p>
 <p><iframe width="300" height="674" style="width: 100%;" scrolling="no" title="Vue | Lil chats" src="//codepen.io/tiffachoo/embed/BWqKqW/?height=674&amp;theme-id=light&amp;default-tab=result&amp;embed-version=2" frameborder="no" allowtransparency="true" allowfullscreen="allowfullscreen"></iframe></p>
-<p>Мечта сео-оптимизатора - фильтры и поиск без GET атрибутов<br>Очень хочу реализовать этот подход в хорошем, большом магазине<br><br><br></p>
+<p>&nbsp;Мечта сео-оптимизатора - фильтры и поиск без GET атрибутов<br>&nbsp;Очень хочу реализовать этот подход в хорошем, большом магазине<br><br><br></p>
 <p><iframe width="300" height="524" style="width: 100%;" scrolling="no" title="Puter Parts - Vue.JS Live Search" src="//codepen.io/Bobdacious/embed/LNgWdg/?height=524&amp;theme-id=light&amp;default-tab=result&amp;embed-version=2" frameborder="no" allowtransparency="true" allowfullscreen="allowfullscreen"></iframe></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Разработка с Vue.js и PHP (перевод)</title>
-        <author>
-            <name>RALMAZ</name>
-        </author>
-        <link href="https://ralmaz.github.io/vuejs-i-php.html"/>
-        <id>https://ralmaz.github.io/vuejs-i-php.html</id>
-            <category term="Vue.js"/>
-            <category term="PHP"/>
-
-        <updated>2017-08-13T00:46:07+03:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://ralmaz.github.io/media/posts/2/1-kgevwnpzwvfel5msi4cyg.jpeg" alt="" />
-                <p>В этом примере&nbsp;мы будем использовать VueJS и PHP для создания действительно крутого инструмента вычисления плотности ключевых слов.</p>
-<p>На стороне Vue мы будем использовать компоненты, шаблоны, базовые функции Vue&nbsp;и многое другое. Мы будем использовать PHP для генерации формы, а также для обработки данных&nbsp;формы в дополнение к функции <a href="http://php.net/manual/ru/function.substr-count.php" target="_blank" rel="nofollow noopener noreferrer">substr_count ()</a>. <br>Давайте посмотрим, как мы можем это сделать, это должно быть&nbsp;интересно.</p>
-<h2>Объявление компонента Vue</h2>
-<p>Первое что мы сделаем - объявим компонент для нашего приложения.<br>В этой ситуации, мы создаем&nbsp;<code>keywordcounter</code>&nbsp;компонент первым аргументом, передавая методу&nbsp;<code>.component()</code></p>
-<p>Мы передаем объект в качестве второго параметра этого метода. Он обладает свойствами&nbsp; <code>template</code>, <code>props</code>, <code>data</code>, и&nbsp;<code>methods</code>.&nbsp;</p>
-<p>&nbsp;</p>
-<address>Перевод&nbsp;<a href="http://vegibit.com/developing-with-vuejs-and-php/" target="_blank" rel="nofollow noopener noreferrer">vegibit.com/developing-with-vuejs-and-php</a></address>
             ]]>
         </content>
     </entry>
