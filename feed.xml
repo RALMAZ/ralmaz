@@ -3,7 +3,7 @@
     <title>ralmaz</title>
     <link href="https://ralmaz.github.io/feed.xml" rel="self" />
     <link href="https://ralmaz.github.io" />
-    <updated>2017-08-12T19:40:51+03:00</updated>
+    <updated>2017-08-12T19:46:50+03:00</updated>
     <author>
         <name>RALMAZ</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://ralmaz.github.io/vuejs-i-php.html"/>
         <id>https://ralmaz.github.io/vuejs-i-php.html</id>
+            <category term="Vue.js"/>
 
-        <updated>2017-08-12T19:40:43+03:00</updated>
+        <updated>2017-08-12T19:44:37+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
