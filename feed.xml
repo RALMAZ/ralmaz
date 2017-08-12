@@ -3,12 +3,29 @@
     <title>ralmaz</title>
     <link href="https://ralmaz.github.io/feed.xml" rel="self" />
     <link href="https://ralmaz.github.io" />
-    <updated>2017-08-12T19:49:15+03:00</updated>
+    <updated>2017-08-12T19:56:50+03:00</updated>
     <author>
         <name>RALMAZ</name>
     </author>
     <id>https://ralmaz.github.io</id>
 
+    <entry>
+        <title>Будущий пост</title>
+        <author>
+            <name>RALMAZ</name>
+        </author>
+        <link href="https://ralmaz.github.io/budushchiy-post.html"/>
+        <id>https://ralmaz.github.io/budushchiy-post.html</id>
+
+        <updated>2017-08-12T19:56:41+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://ralmaz.github.io/media/posts/3/1490887499118090486.jpg" alt="" />
+                Будущий пост
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Разработка с Vue.js и PHP (перевод)</title>
         <author>
