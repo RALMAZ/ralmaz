@@ -3,7 +3,7 @@
     <title>ralmaz</title>
     <link href="https://ralmaz.github.io/feed.xml" rel="self" />
     <link href="https://ralmaz.github.io" />
-    <updated>2017-08-12T23:29:22+03:00</updated>
+    <updated>2017-08-12T23:31:43+03:00</updated>
     <author>
         <name>RALMAZ</name>
     </author>
@@ -18,13 +18,13 @@
         <id>https://ralmaz.github.io/vue-test.html</id>
             <category term="Vue.js"/>
 
-        <updated>2017-08-12T23:29:08+03:00</updated>
+        <updated>2017-08-12T23:31:30+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://ralmaz.github.io/media/posts/3/2017-07-23_132212.png" alt="" />
                 <p>Много я о таком думал</p>
-<p><iframe width="300" height="574" style="width: 100%;" scrolling="no" title="Image Hotspot concept with Vue" src="//codepen.io/ispal/embed/preview/VWPJRd/?height=574&amp;theme-id=light&amp;default-tab=result&amp;embed-version=2" frameborder="no" allowtransparency="true" allowfullscreen="allowfullscreen">See the Pen <a href="https://codepen.io/ispal/pen/VWPJRd/">Image Hotspot concept with Vue</a> by Irko Palenius (<a href="https://codepen.io/ispal">@ispal</a>) on <a href="https://codepen.io">CodePen</a>.</iframe></p>
+<p><iframe width="300" height="574" style="width: 100%;" scrolling="no" title="Image Hotspot concept with Vue" src="//codepen.io/ispal/embed/preview/VWPJRd/?height=574&amp;theme-id=light&amp;default-tab=result&amp;embed-version=2" frameborder="no" allowtransparency="true" allowfullscreen="allowfullscreen"></iframe></p>
             ]]>
         </content>
     </entry>
