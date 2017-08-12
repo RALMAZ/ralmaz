@@ -14,7 +14,7 @@
             "id": "https://ralmaz.github.io/nabor-interesnyh-menyu.html",
             "url": "https://ralmaz.github.io/nabor-interesnyh-menyu.html",
             "title": "Набор интересных меню",
-            "content_html": "<p><iframe width=\"300\" height=\"265\" style=\"width: 100%;\" scrolling=\"no\" title=\"Rings Navigation Concept\" src=\"//codepen.io/bennettfeely/embed/qRJOZJ/?height=265&amp;theme-id=light&amp;default-tab=result&amp;embed-version=2\" frameborder=\"no\" allowtransparency=\"true\" allowfullscreen=\"allowfullscreen\">See the Pen <a href=\"https://codepen.io/bennettfeely/pen/qRJOZJ/\"></a></iframe></p>\n<p><a href=\"https://tympanus.net/codrops/2013/07/30/google-nexus-website-menu/\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2013/07/GoogleNexusMenu.png\" alt=\"\" width=\"580\" height=\"315\"></a></p>\n<p>&nbsp;</p>\n<p><a href=\"http://avirtum.com/demo/slidemenu/\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"http://avirtum.com/demo/slidemenu/assets/images/preview.png\"></a></p>",
+            "content_html": "<p>Буду дополнять по мере поступления интересностей</p>\n<p><iframe width=\"300\" height=\"265\" style=\"width: 100%;\" scrolling=\"no\" title=\"Rings Navigation Concept\" src=\"//codepen.io/bennettfeely/embed/qRJOZJ/?height=265&amp;theme-id=light&amp;default-tab=result&amp;embed-version=2\" frameborder=\"no\" allowtransparency=\"true\" allowfullscreen=\"allowfullscreen\">See the Pen <a href=\"https://codepen.io/bennettfeely/pen/qRJOZJ/\"></a></iframe></p>\n<p><a href=\"https://tympanus.net/codrops/2013/07/30/google-nexus-website-menu/\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2013/07/GoogleNexusMenu.png\" alt=\"\" width=\"580\" height=\"315\"></a></p>\n<p>&nbsp;</p>\n<p><a href=\"http://avirtum.com/demo/slidemenu/\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"http://avirtum.com/demo/slidemenu/assets/images/preview.png\"></a></p>",
             "image": "https://ralmaz.github.io/media/posts/4/fon-rabochego-stola.bmp",
             "author": {
                 "name": "RALMAZ"
@@ -22,8 +22,8 @@
             "tags": [
                    "UI/UX"
             ],
-            "date_published": "2017-08-13T01:52:35+03:00",
-            "date_modified": "2017-08-13T01:48:37+03:00"
+            "date_published": "2017-08-13T01:57:17+03:00",
+            "date_modified": "2017-08-13T01:56:45+03:00"
         },
         {
             "id": "https://ralmaz.github.io/vue-test.html",
@@ -37,7 +37,7 @@
             "tags": [
                    "Vue.js"
             ],
-            "date_published": "2017-08-13T01:52:35+03:00",
+            "date_published": "2017-08-13T01:57:17+03:00",
             "date_modified": "2017-08-13T01:36:40+03:00"
         }
     ]
