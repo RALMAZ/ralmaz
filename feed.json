@@ -14,7 +14,7 @@
             "id": "https://ralmaz.github.io/vuejs-i-php.html",
             "url": "https://ralmaz.github.io/vuejs-i-php.html",
             "title": "Разработка с Vue.js и PHP (перевод)",
-            "content_html": "<p>В этом уроке мы будем использовать VueJS и PHP для создания действительно крутого инструмента вычисления плотности ключевых слов.</p>\n<p>На стороне Vue мы будем использовать компоненты, шаблоны, базовые функции Vue&nbsp;и многое другое. Мы будем использовать PHP для генерации формы, а также для обработки данных&nbsp;формы в дополнение к функции <a href=\"http://php.net/manual/ru/function.substr-count.php\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">substr_count ()</a>. <br>Давайте посмотрим, как мы можем это сделать, это должно быть&nbsp;интересно.</p>\n<h2>Объявление компонента Vue</h2>\n<p>Первое что мы сделаем - объявим компонент для нашего приложения.<br>В этой ситуации, мы создаем&nbsp;<code>keywordcounter</code>&nbsp;компонент первым аргументом, передавая методу&nbsp;<code>.component()</code></p>\n<p>Мы передаем объект в качестве второго параметра этого метода. Он обладает свойствами&nbsp; <code>template</code>, <code>props</code>, <code>data</code>, и&nbsp;<code>methods</code>.&nbsp;</p>\n<p>&nbsp;</p>\n<address>Перевод&nbsp;<a href=\"http://vegibit.com/developing-with-vuejs-and-php/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">vegibit.com/developing-with-vuejs-and-php</a></address>",
+            "content_html": "<p>В этом примере&nbsp;мы будем использовать VueJS и PHP для создания действительно крутого инструмента вычисления плотности ключевых слов.</p>\n<p>На стороне Vue мы будем использовать компоненты, шаблоны, базовые функции Vue&nbsp;и многое другое. Мы будем использовать PHP для генерации формы, а также для обработки данных&nbsp;формы в дополнение к функции <a href=\"http://php.net/manual/ru/function.substr-count.php\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">substr_count ()</a>. <br>Давайте посмотрим, как мы можем это сделать, это должно быть&nbsp;интересно.</p>\n<h2>Объявление компонента Vue</h2>\n<p>Первое что мы сделаем - объявим компонент для нашего приложения.<br>В этой ситуации, мы создаем&nbsp;<code>keywordcounter</code>&nbsp;компонент первым аргументом, передавая методу&nbsp;<code>.component()</code></p>\n<p>Мы передаем объект в качестве второго параметра этого метода. Он обладает свойствами&nbsp; <code>template</code>, <code>props</code>, <code>data</code>, и&nbsp;<code>methods</code>.&nbsp;</p>\n<p>&nbsp;</p>\n<address>Перевод&nbsp;<a href=\"http://vegibit.com/developing-with-vuejs-and-php/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">vegibit.com/developing-with-vuejs-and-php</a></address>",
             "image": "https://ralmaz.github.io/media/posts/2/1-kgevwnpzwvfel5msi4cyg.jpeg",
             "author": {
                 "name": "RALMAZ"
@@ -22,8 +22,8 @@
             "tags": [
                    "Vue.js"
             ],
-            "date_published": "2017-08-12T19:46:50+03:00",
-            "date_modified": "2017-08-12T19:44:37+03:00"
+            "date_published": "2017-08-12T19:47:19+03:00",
+            "date_modified": "2017-08-12T19:47:11+03:00"
         }
     ]
 }
