@@ -14,7 +14,7 @@
             "id": "https://ralmaz.github.io/nabor-interesnyh-menyu.html",
             "url": "https://ralmaz.github.io/nabor-interesnyh-menyu.html",
             "title": "Набор интересных меню",
-            "content_html": "<p>Буду дополнять по мере поступления интересностей</p>\n<p><iframe width=\"300\" height=\"265\" style=\"width: 100%;\" scrolling=\"no\" title=\"Rings Navigation Concept\" src=\"//codepen.io/bennettfeely/embed/qRJOZJ/?height=265&amp;theme-id=light&amp;default-tab=result&amp;embed-version=2\" frameborder=\"no\" allowtransparency=\"true\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>&nbsp;<a href=\"https://tympanus.net/codrops/2013/07/30/google-nexus-website-menu/\" target=\"_blank\" rel=\"noopener noreferrer\"><img class=\"post__image--center\" src=\"https://ralmaz.github.io/media/posts/4/1.png\" alt=\"\" width=\"580\" height=\"315\"></a></p>\n<p>&nbsp;</p>\n<p><a href=\"http://avirtum.com/demo/slidemenu/\" target=\"_blank\" rel=\"noopener noreferrer\"><img class=\"post__image--center\" src=\"https://ralmaz.github.io/media/posts/4/2.png\" alt=\"\" width=\"650\" height=\"500\"></a></p>",
+            "content_html": "<p>Буду дополнять по мере поступления интересностей</p>\n<p><iframe width=\"300\" height=\"400\" style=\"width: 100%;\" scrolling=\"no\" title=\"Rings Navigation Concept\" src=\"//codepen.io/bennettfeely/embed/qRJOZJ/?height=265&amp;theme-id=light&amp;default-tab=result&amp;embed-version=2\" frameborder=\"no\" allowtransparency=\"true\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>&nbsp;<a href=\"https://tympanus.net/codrops/2013/07/30/google-nexus-website-menu/\" target=\"_blank\" rel=\"noopener noreferrer\"><img class=\"post__image--center\" src=\"https://ralmaz.github.io/media/posts/4/1.png\" alt=\"\" width=\"580\" height=\"315\"></a></p>\n<p>&nbsp;</p>\n<p><a href=\"http://avirtum.com/demo/slidemenu/\" target=\"_blank\" rel=\"noopener noreferrer\"><img class=\"post__image--center\" src=\"https://ralmaz.github.io/media/posts/4/2.png\" alt=\"\" width=\"650\" height=\"500\"></a></p>",
             "image": "https://ralmaz.github.io/media/posts/4/zsasz1-so-we-are-going-to-see-a-gotham-and-the-flash-crossover-jpeg-149488.jpg",
             "author": {
                 "name": "RALMAZ"
@@ -22,8 +22,8 @@
             "tags": [
                    "UI/UX"
             ],
-            "date_published": "2017-08-13T02:09:47+03:00",
-            "date_modified": "2017-08-13T02:09:37+03:00"
+            "date_published": "2017-08-13T02:11:21+03:00",
+            "date_modified": "2017-08-13T02:11:11+03:00"
         },
         {
             "id": "https://ralmaz.github.io/vue-test.html",
@@ -37,7 +37,7 @@
             "tags": [
                    "Vue.js"
             ],
-            "date_published": "2017-08-13T02:09:47+03:00",
+            "date_published": "2017-08-13T02:11:21+03:00",
             "date_modified": "2017-08-13T01:36:40+03:00"
         }
     ]
