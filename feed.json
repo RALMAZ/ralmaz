@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "personal-notes",
+    "title": "ralmaz",
     "description": "",
     "home_page_url": "https://ralmaz.github.io",
     "feed_url": "https://ralmaz.github.io/feed.json",
@@ -21,7 +21,7 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-12T19:10:02+03:00",
+            "date_published": "2017-08-12T19:26:44+03:00",
             "date_modified": "2017-08-12T19:07:23+03:00"
         }
     ]

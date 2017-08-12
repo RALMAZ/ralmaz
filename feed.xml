@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>personal-notes</title>
+    <title>ralmaz</title>
     <link href="https://ralmaz.github.io/feed.xml" rel="self" />
     <link href="https://ralmaz.github.io" />
-    <updated>2017-08-12T19:10:02+03:00</updated>
+    <updated>2017-08-12T19:26:44+03:00</updated>
     <author>
         <name>RALMAZ</name>
     </author>
