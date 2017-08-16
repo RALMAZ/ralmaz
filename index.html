@@ -42,14 +42,14 @@
       <el-col :span="3">
       <el-button @click="visible = true">Button</el-button>
       </el-col>
-      <el-col :span="6">
+      <el-col :span="9">
       <el-carousel :interval="4000" type="card" height="200px">
       <el-carousel-item v-for="item in 6" :key="item">
       <h3>{{ item }}</h3>
       </el-carousel-item>
       </el-carousel>
       </el-col>
-      <el-col :span="6">
+      <el-col :span="3">
       <el-button type="warning" size="large">Large Button</el-button>
       </el-col>
       </el-row>
