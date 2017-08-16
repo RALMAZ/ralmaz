@@ -24,15 +24,23 @@
   </head>
   <body>
     <div id="app">
-      <el-button @click="visible = true">Button</el-button>
-      <el-dialog v-model="visible" title="Hello world">
-      <p>Try Element</p>
-      </el-dialog>
       <el-row type="flex" class="row-bg" justify="center">
-      <el-col :span="6"><div class="grid-content bg-purple"></div></el-col>
+      <el-col :span="6">
+      <el-button @click="visible = true">Button</el-button>
+      </el-col>
       <el-col :span="6"><div class="grid-content bg-purple-light"></div></el-col>
       <el-col :span="6"><div class="grid-content bg-purple"></div></el-col>
       </el-row>
+
+
+
+
+
+
+
+      <el-dialog v-model="visible" title="Hello world">
+      <p>Try Element</p>
+      </el-dialog>
     </div>
   </body>
   <script src="https://unpkg.com/vue/dist/vue.js"></script>
