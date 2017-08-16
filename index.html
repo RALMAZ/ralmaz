@@ -6,10 +6,19 @@
 </head>
 <body>
   <div id="app">
-    <el-button @click="visible = true">Button</el-button>
+    
+  <el-row :gutter="20">
+  <el-col :span="16">
+
+  </el-col>
+
+  <el-col :span="8">
+<el-button @click="visible = true">Button</el-button>
     <el-dialog v-model="visible" title="Hello world">
       <p>Try Element</p>
     </el-dialog>
+  </el-col>
+</el-row>
   </div>
 </body>
   <script src="https://unpkg.com/vue/dist/vue.js"></script>
