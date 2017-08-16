@@ -28,12 +28,11 @@
       <el-dialog v-model="visible" title="Hello world">
       <p>Try Element</p>
       </el-dialog>
-      <el-row :gutter="10">
-  <el-col :xs="8" :sm="6" :md="4" :lg="3"><div class="grid-content bg-purple"></div></el-col>
-  <el-col :xs="4" :sm="6" :md="8" :lg="9"><div class="grid-content bg-purple-light"></div></el-col>
-  <el-col :xs="4" :sm="6" :md="8" :lg="9"><div class="grid-content bg-purple"></div></el-col>
-  <el-col :xs="8" :sm="6" :md="4" :lg="3"><div class="grid-content bg-purple-light"></div></el-col>
-</el-row>
+      <el-row type="flex" class="row-bg" justify="center">
+      <el-col :span="6"><div class="grid-content bg-purple"></div></el-col>
+      <el-col :span="6"><div class="grid-content bg-purple-light"></div></el-col>
+      <el-col :span="6"><div class="grid-content bg-purple"></div></el-col>
+      </el-row>
     </div>
   </body>
   <script src="https://unpkg.com/vue/dist/vue.js"></script>
