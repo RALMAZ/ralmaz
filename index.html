@@ -1,34 +1,36 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-default/index.css">
-</head>
-<body>
-  <div id="app">
-    
-  <el-row :gutter="20">
-  <el-col :span="16">
-
-  </el-col>
-
-  <el-col :span="8">
-<el-button @click="visible = true">Button</el-button>
-    <el-dialog v-model="visible" title="Hello world">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Тестирование Element</title>
+    <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-default/index.css">
+    <link rel="stylesheet" href="css/custom.css">
+    <meta name="description" content="Тестирование Element">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://ralmaz.github.io">
+    <meta property="og:title" content="Тестирование Element">
+    <meta property="og:site_name" content="RALMAZ">
+    <meta property="og:description" content="Тестирование Element">
+    <script type="application/ld+json">
+    {
+    "@context": "http://www.schema.org",
+    "@type": "WebSite",
+    "name": "RALMAZ",
+    "url": "https://ralmaz.github.io"
+    }
+    </script>
+  </head>
+  <body>
+    <div id="app">
+      <el-button @click="visible = true">Button</el-button>
+      <el-dialog v-model="visible" title="Hello world">
       <p>Try Element</p>
-    </el-dialog>
-  </el-col>
-</el-row>
-  </div>
-</body>
+      </el-dialog>
+    </div>
+  </body>
   <script src="https://unpkg.com/vue/dist/vue.js"></script>
   <script src="https://unpkg.com/element-ui/lib/index.js"></script>
-  <script>
-    new Vue({
-      el: '#app',
-      data: function() {
-        return { visible: false }
-      }
-    })
-  </script>
+  <script src="js/custom.js"></script>
 </html>
