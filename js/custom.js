@@ -1,7 +1,7 @@
 new Vue({
 el: '#app',
 data: function() {
-return { visible: false }
+return { visible: false, active: 0 }
 },
 methods: {
       next() {
