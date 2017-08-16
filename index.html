@@ -42,8 +42,16 @@
       <el-col :span="3">
       <el-button @click="visible = true">Button</el-button>
       </el-col>
-      <el-col :span="6"><div class="grid-content bg-purple-light"></div></el-col>
-      <el-col :span="6"><div class="grid-content bg-purple"></div></el-col>
+      <el-col :span="6">
+      <el-carousel :interval="4000" type="card" height="200px">
+      <el-carousel-item v-for="item in 6" :key="item">
+      <h3>{{ item }}</h3>
+      </el-carousel-item>
+      </el-carousel>
+      </el-col>
+      <el-col :span="6">
+      <el-button type="warning" size="large">Large Button</el-button>
+      </el-col>
       </el-row>
       <el-dialog v-model="visible" title="Hello world">
       <p>Try Element</p>
