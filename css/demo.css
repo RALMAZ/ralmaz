@@ -165,50 +165,6 @@ a:hover, a:focus {
 	opacity: 0.6;
 }
 
-/* To Navigation Style */
-.codrops-top {
-	width: 100%;
-	text-transform: uppercase;
-	font-weight: 700;
-	font-size: 0.69em;
-	line-height: 2.2;
-}
-
-.codrops-top a {
-	display: inline-block;
-	padding: 1em 2em;
-	text-decoration: none;
-	letter-spacing: 1px;
-}
-
-.codrops-top span.right {
-	float: right;
-}
-
-.codrops-top span.right a {
-	display: block;
-	float: left;
-}
-
-.codrops-icon:before {
-	margin: 0 4px;
-	text-transform: none;
-	font-weight: normal;
-	font-style: normal;
-	font-variant: normal;
-	font-family: 'codropsicons';
-	line-height: 1;
-	speak: none;
-	-webkit-font-smoothing: antialiased;
-}
-
-.codrops-icon-drop:before {
-	content: "\e001";
-}
-
-.codrops-icon-prev:before {
-	content: "\e004";
-}
 
 /* Codrops demo links */
 .codrops-demos {
