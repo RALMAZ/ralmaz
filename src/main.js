@@ -1,16 +1,24 @@
 import Vue from 'vue'
-import VueRouter from 'vue-router'
-import App from './App.vue'
-import Rote from './Rote.vue'
+import routes from './routes'
 
-Vue.use(VueRouter)
-
-new Vue({
+const app = new Vue({
   el: '#app',
-  render: h => h(App)
+  data: {
+    currentRoute: window.location.pathname
+  },
+  computed: {
+    ViewComponent () {
+      const matchingView = routes[this.currentRoute]
+      return matchingView
+        ? require('./pages/' + matchingView + '.vue')
+        : require('./pages/404.vue')
+    }
+  },
+  render (h) {
+    return h(this.ViewComponent)
+  }
 })
 
-const routes = {
-  '/': App,
-  '/rote': Rote
-}
+window.addEventListener('popstate', () => {
+  app.currentRoute = window.location.pathname
+})
