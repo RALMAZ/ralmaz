@@ -28,13 +28,15 @@ body {
 }
 
 a {
-	color: orange;
+	color: white;
 	text-decoration: none;
 	outline: none;
+	font-family: sans-serif;
 }
 
 a:hover, a:focus {
 	color: #74777b;
+	font-family: sans-serif;
 }
 
 .color-1 {
