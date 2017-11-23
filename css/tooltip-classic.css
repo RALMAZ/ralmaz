@@ -4,6 +4,10 @@
 	z-index: 999;
 }
 
+.ra-email {
+	font-size: 48px;
+}
+
 /* Trigger text */
 
 .tooltip-item {
