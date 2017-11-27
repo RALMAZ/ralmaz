@@ -8,6 +8,10 @@
 	font-size: 48px;
 }
 
+a:hover {
+    cursor: crosshair;
+}
+
 /* Trigger text */
 
 .tooltip-item {
