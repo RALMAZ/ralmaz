@@ -55,7 +55,6 @@
 	box-shadow: -5px -5px 15px rgba(48,54,61,0.2);
 	background: #2a3035;
 	opacity: 0;
-	cursor: default;
 	pointer-events: none;
 }
 
