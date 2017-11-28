@@ -9,7 +9,7 @@
 }
 
 * {
-    cursor: url(../css/cursor.ani);
+    cursor: url(../css/cursor.ani), default;
 }
 
 /* Trigger text */
