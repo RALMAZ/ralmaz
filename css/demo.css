@@ -356,3 +356,7 @@ a:hover, a:focus {
 	padding-bottom: 50px;
 	/*border-top: 5px solid white;*/
 }
+
+h1 {
+	text-shadow: #0066ff 0 0 30px;
+}
