@@ -190,7 +190,7 @@ a:hover, a:focus {
 /* Related demos */
 .related {
 	text-align: center;
-	padding: 8em 0;
+	/*padding: 8em 0;*/
 	clear: both;
 }
 
@@ -217,10 +217,11 @@ a:hover, a:focus {
 }
 
 .related a h3 {
+	color: white;
 	margin: 0;
 	padding: 0.5em 0 0.3em;
 	max-width: 300px;
-	text-align: left;
+	text-align: center;
 }
 
 /* Dummy elements */
