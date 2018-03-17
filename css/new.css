@@ -1,3 +1,17 @@
 * {
     cursor: url(../css/cursor.cur), default;
 }
+
+.img-diamond {
+	position: absolute;
+	top: -130px;
+	left: 43%;
+}
+
+.cyber-border {
+	border: 3px ridge #ce26c3;
+}
+
+.cyber-text {
+    color: #eddeff;
+}
