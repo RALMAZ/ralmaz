@@ -1,5 +1,5 @@
 User-agent: *
 
-Host: https://ralmaz.github.io/
+Host: https://ralmaz.js.org/
 
-Sitemap: https://ralmaz.github.io/sitemap.xml
+Sitemap: https://ralmaz.js.org/sitemap.xml
