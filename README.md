@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/VIVaHa40heVwh1Vjvk/giphy.gif">
+<img src="https://media.giphy.com/media/LMPvFkzZyy8SUnH2tP/giphy.gif">
 
 # JavaScript Developer since 2012
 ### Vue.js enthusiast and mentor
