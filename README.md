@@ -2,7 +2,7 @@
 
 # Frontend developer since 2012
   
-- Software Developer in **[Tupelo](https://tupelo.tech/)**  
+- Frontend Engineer in **[Tupelo](https://tupelo.tech/)**  
 - Founder of **[Veni Vidi Academy](https://ralmaz.pro/academy)**  
 
 
