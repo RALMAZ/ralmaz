@@ -4,6 +4,7 @@
   
 - Frontend Engineer in **[Acteamo](https://acteamo.com/)**  
 - Founder of **[Veni Vidi Academy](https://ralmaz.pro/academy)**  
+- Book **[Conscious development](https://ralmaz.pro/book)**  
 
 
 ### Lates posts:
