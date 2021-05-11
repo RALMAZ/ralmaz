@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/LMPvFkzZyy8SUnH2tP/giphy.gif">
 
-# Frontend developer since 2012
+# Lead Frontend Engineer
   
 - Frontend Engineer in **[Acteamo](https://acteamo.com/)**  
 - Founder of **[Veni Vidi Academy](https://ralmaz.pro/academy)**  
