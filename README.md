@@ -2,7 +2,7 @@
 
 # Lead Frontend Engineer
   
-- Frontend Engineer in **[Acteamo](https://acteamo.com/)**  
+- Lead Frontend Engineer in **[Acteamo](https://acteamo.com/)**  
 - Founder of **[Veni Vidi Academy](https://ralmaz.pro/academy)**  
 - Author of **[Conscious development](https://ralmaz.pro/book)** book   
 
