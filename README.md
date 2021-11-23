@@ -2,7 +2,7 @@
 
 # Lead Frontend Engineer
   
-- Senior Frontend Engineer in **[Divante](https://www.divante.com/)**  
+- Lead Frontend Engineer in **[Atomic](https://atomicwallet.io/)**  
 - Founder of **[Veni Vidi Academy](https://ralmaz.pro/academy)**  
 - Author of **[Conscious development](https://ralmaz.pro/book)** book   
 
