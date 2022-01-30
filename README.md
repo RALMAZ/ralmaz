@@ -2,7 +2,7 @@
 
 # Lead Frontend Engineer
   
-- Lead Frontend Engineer in **[Atomic](https://atomicwallet.io/)**  
+- Lead Frontend Engineer
 - Founder of **[Veni Vidi Academy](https://ralmaz.pro/academy)**  
 - Author of **[Conscious development](https://ralmaz.pro/book)** book   
 
