@@ -1,8 +1,7 @@
 <img src="https://media.giphy.com/media/LMPvFkzZyy8SUnH2tP/giphy.gif">
 
-# Lead Frontend Engineer
+# Senior Frontend Engineer
   
-- Lead Frontend Engineer
 - Founder of **[Veni Vidi Academy](https://ralmaz.pro/academy)**  
 - Author of **[Conscious development](https://ralmaz.pro/book)** book   
 
