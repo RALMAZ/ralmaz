@@ -6,7 +6,7 @@
 - Author of **[Conscious development](https://ralmaz.pro/book)** book   
 
 
-### Lates posts:
+### Latest posts:
 - :smiling_imp: **[Mixins - elegant work with API](https://ralmaz.pro/blog/mixins)**  
 And why you no longer need **Vuex.actions**
 - :eye: **[The watcher is bad, deep watcher - memory hell](https://ralmaz.pro/blog/watcher)**  
