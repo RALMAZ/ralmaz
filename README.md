@@ -7,6 +7,8 @@
 
 
 ### Latest posts:
+- 🍕 **[Tailwind presents itself completely wrong](https://ralmaz.pro/blog/tailwind)**  
+That is why many still do not understand what opportunities Tailwind gives
 - :smiling_imp: **[Mixins - elegant work with API](https://ralmaz.pro/blog/mixins)**  
 And why you no longer need **Vuex.actions**
 - :eye: **[The watcher is bad, deep watcher - memory hell](https://ralmaz.pro/blog/watcher)**  
